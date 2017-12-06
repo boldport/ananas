@@ -1,0 +1,934 @@
+{
+  "components": {
+    "B1": {
+      "footprint": "batt_holder", 
+      "layer": "top", 
+      "location": [
+        -0.250112, 
+        -6.929896
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C1": {
+      "footprint": "cap_th", 
+      "layer": "top", 
+      "location": [
+        -24.200819, 
+        11.414417
+      ], 
+      "rotate": 293.00542, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "cap_th", 
+      "layer": "top", 
+      "location": [
+        -24.620123, 
+        -7.871893
+      ], 
+      "rotate": 248.956318, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C3": {
+      "footprint": "cap_th", 
+      "layer": "top", 
+      "location": [
+        -8.864998, 
+        -26.217388
+      ], 
+      "rotate": 207.123229, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C4": {
+      "footprint": "cap_th", 
+      "layer": "bottom", 
+      "location": [
+        9.022224, 
+        -26.646609
+      ], 
+      "rotate": 154.14812, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C5": {
+      "footprint": "cap_th", 
+      "layer": "bottom", 
+      "location": [
+        23.71658, 
+        -8.698325
+      ], 
+      "rotate": 116.13684, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C6": {
+      "footprint": "cap_th", 
+      "layer": "bottom", 
+      "location": [
+        23.728324, 
+        10.914363
+      ], 
+      "rotate": 74.478478, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED1": {
+      "footprint": "LED_th", 
+      "layer": "top", 
+      "location": [
+        -18.312645, 
+        22.600071
+      ], 
+      "rotate": 316.481811, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED2": {
+      "footprint": "LED_th", 
+      "layer": "top", 
+      "location": [
+        -24.80295, 
+        1.44769
+      ], 
+      "rotate": 270, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED3": {
+      "footprint": "LED_th", 
+      "layer": "top", 
+      "location": [
+        -18.37796, 
+        -19.514719
+      ], 
+      "rotate": 219.583999, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED4": {
+      "footprint": "LED_th", 
+      "layer": "bottom", 
+      "location": [
+        18.668013, 
+        -19.478618
+      ], 
+      "rotate": 134.856924, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED5": {
+      "footprint": "LED_th", 
+      "layer": "bottom", 
+      "location": [
+        25.524895, 
+        1.415909
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED6": {
+      "footprint": "LED_th", 
+      "layer": "bottom", 
+      "location": [
+        17.382087, 
+        21.650586
+      ], 
+      "rotate": 41.856011, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "RES_th", 
+      "layer": "top", 
+      "location": [
+        -20.423847, 
+        18.854978
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R10": {
+      "footprint": "RES_th_0125", 
+      "layer": "bottom", 
+      "location": [
+        14.10174, 
+        9.88418
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R11": {
+      "footprint": "RES_th_0125", 
+      "layer": "bottom", 
+      "location": [
+        17.043211, 
+        1.998579
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R13": {
+      "footprint": "RES_th_0125", 
+      "layer": "bottom", 
+      "location": [
+        14.466686, 
+        -15.052504
+      ], 
+      "rotate": -311.886644, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "RES_th", 
+      "layer": "top", 
+      "location": [
+        -25.382239, 
+        -3.183953
+      ], 
+      "rotate": 295.577118, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "RES_th", 
+      "layer": "top", 
+      "location": [
+        -15.089515, 
+        -21.883459
+      ], 
+      "rotate": 162.426158, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "RES_th", 
+      "layer": "bottom", 
+      "location": [
+        20.67505, 
+        18.189367
+      ], 
+      "rotate": 295.980243, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "RES_th", 
+      "layer": "bottom", 
+      "location": [
+        25.240756, 
+        -3.670255
+      ], 
+      "rotate": 25.116893, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "RES_th", 
+      "layer": "bottom", 
+      "location": [
+        15.228895, 
+        -22.350966
+      ], 
+      "rotate": 201.203497, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "RES_th_0125", 
+      "layer": "bottom", 
+      "location": [
+        -13.281632, 
+        11.45046
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R8": {
+      "footprint": "RES_th_0125", 
+      "layer": "bottom", 
+      "location": [
+        -18.117604, 
+        3.269271
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R9": {
+      "footprint": "RES_th_0125", 
+      "layer": "bottom", 
+      "location": [
+        -14.90431, 
+        -15.443761
+      ], 
+      "rotate": 311.886644, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T1": {
+      "footprint": "TO92_th", 
+      "layer": "top", 
+      "location": [
+        -15.088151, 
+        18.908409
+      ], 
+      "rotate": 310, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T2": {
+      "footprint": "TO92_th", 
+      "layer": "top", 
+      "location": [
+        -13.167355, 
+        3.541404
+      ], 
+      "rotate": 270, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T3": {
+      "footprint": "TO92_th", 
+      "layer": "top", 
+      "location": [
+        -11.989686, 
+        -11.841568
+      ], 
+      "rotate": 221.886644, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T4": {
+      "footprint": "TO92_th", 
+      "layer": "bottom", 
+      "location": [
+        14.835011, 
+        17.170991
+      ], 
+      "rotate": -310, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T5": {
+      "footprint": "TO92_th", 
+      "layer": "bottom", 
+      "location": [
+        11.973403, 
+        2.205785
+      ], 
+      "rotate": -270, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T6": {
+      "footprint": "TO92_th", 
+      "layer": "bottom", 
+      "location": [
+        11.218123, 
+        -11.708302
+      ], 
+      "rotate": -221.886644, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "V1": {
+      "footprint": "VCC_th", 
+      "layer": "top", 
+      "location": [
+        -13.565577, 
+        25.502144
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "V2": {
+      "footprint": "VCC_th", 
+      "layer": "top", 
+      "location": [
+        -25.404773, 
+        6.746039
+      ], 
+      "rotate": 307.280071, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "V3": {
+      "footprint": "VCC_th", 
+      "layer": "top", 
+      "location": [
+        -21.082977, 
+        -16.046063
+      ], 
+      "rotate": 357.245029, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "V4": {
+      "footprint": "VCC_th", 
+      "layer": "bottom", 
+      "location": [
+        13.950118, 
+        24.246523
+      ], 
+      "rotate": 335.345752, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "V5": {
+      "footprint": "VCC_th", 
+      "layer": "bottom", 
+      "location": [
+        24.912906, 
+        6.20381
+      ], 
+      "rotate": 330.837042, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "V6": {
+      "footprint": "VCC_th", 
+      "layer": "bottom", 
+      "location": [
+        21.360403, 
+        -16.093192
+      ], 
+      "rotate": 359.551427, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "ananas", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "A", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.25, 
+      "pad": 0.3, 
+      "route": 0.3
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.2, 
+      "path-scale": 1.1, 
+      "rect-buffer": 0.2
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        45.196519, 
+        2.3853499
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: Ananas\nRevision: A\nDescription: A pineapple-inspired 3D soldering project\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Ben Barwise, ben@boldport.com"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        45.008659, 
+        -10.846649
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top and bottom (yellow)\nSoldermask: top and bottom (green)\nSurface finish: lead-free"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        41.198668, 
+        -21.620092
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      29.050723, 
+      13.71527
+    ]
+  }, 
+  "files": {
+    "routing-data": "ananas_routing.json", 
+    "routing-svg": "ananas.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": true, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "measurements": {
+      "font": "UbuntuMono-R-webfont", 
+      "scale": 0.0008
+    }, 
+    "shape": {
+      "type": "path", 
+      "value": "m -10.334505,-29.5824 c -0.06508,0.0026 -0.316753,0.04207 -0.589205,0.18563 -0.538511,0.289934 -0.70641,0.51111 -1.347198,0.815368 -0.305197,0.143634 -0.498207,0.405798 -0.602776,0.683389 -0.06675,0.254821 -0.675909,0.390202 -0.890151,0.384738 -0.984722,0.03843 -1.978678,0.639806 -3.058457,1.466909 -1.079779,0.827103 -2.056977,1.761327 -2.551024,2.205963 -1.278001,1.150202 -1.903517,2.63945 -2.720799,4.19971 -0.262777,0.501676 -0.35233,1.00699 -0.263481,1.45135 0.0509,0.254538 0.173296,0.415853 0.09006,0.637638 -0.167453,0.44616 -0.673155,0.247035 -1.098228,0.613069 -1.530406,1.317859 -2.679484,3.518771 -3.313906,5.699566 -0.646413,2.2220957 -1.012194,5.2739557 -0.515973,7.1686075 0.07758,0.5248123 0.517433,0.6714217 0.541674,1.0395224 0.05829,0.4356956 0.02398,0.3735118 0.124329,0.6544183 0.309869,0.5751438 0.588789,0.5478494 0.53042,0.9692435 -0.01809,0.1304894 -0.318948,0.48749607 -0.443428,0.58672827 -0.412011,0.3284587 -0.464202,0.5433483 -0.727053,1.4414274 -0.517798,1.76915233 -0.342959,4.08665673 0.03032,5.57995373 0.15477,0.6191053 0.346958,1.7881036 0.656497,2.7979681 0.15477,0.5049322 0.330207,0.9758877 0.616259,1.3763838 0.14303,0.200248 0.107043,0.563719 0.60358,0.757369 0.496539,0.193652 0.715352,0.87374 0.415617,1.988235 -0.06446,0.335825 0.04509,0.740147 0.169242,1.017544 0,0 1.815612,2.998701 3.564709,5.17536 0.965372,1.201355 2.497182,2.198839 3.801732,2.945695 0.393741,0.360583 1.123888,1.079928 2.000924,1.604587 0.51251,0.306593 1.198381,0.315702 1.570951,0.75847 0.368587,0.362986 0.617514,0.869363 1.059435,1.145428 0,0 2.504811,1.662904 5.5110499,2.756075 1.4261045,0.498863 4.0986621,1.050419 4.8355544,1.058583 0.2985413,-0.0013 0.312934,-0.300265 0.3150011,-0.454667 V 10.557086 c -0.013657,-1.6920709 -0.0068,-2.1067808 0.9804386,-2.1559041 h 0.00277 v -9.7944431 c 0.031969,-0.5377421 0.73456757,-0.6546038 1.05766059,-0.6626999 0.44116695,8.74e-5 1.03089451,0.2552428 1.02053941,0.6682089 -0.00249,2.6800128 -0.025148,7.0658698 -0.00717,9.7889457 1.1141112,0.032455 0.9580965,1.1563294 0.9580965,2.1558935 v 18.162106 c 0,0.680769 0.7044316,0.790107 1.2402336,0.78206 0.7006551,-0.0091 1.6667682,-0.162724 2.9942032,-0.367661 1.327435,-0.204937 2.5698259,-0.380176 3.4577723,-0.954704 0.8879464,-0.574528 2.4626884,-1.243087 2.7897774,-2.074727 0.19943,-0.437811 0.43409,-1.148203 0.839411,-1.403261 0.667122,-0.583096 1.079198,-0.21377 1.607498,-0.384386 0.705401,-0.22783 1.21905,-0.738105 1.91698,-1.099115 2.04108,-0.886235 3.37771,-2.27655 4.532644,-3.75984 0.937783,-1.211603 1.586142,-1.833101 2.260535,-4.011744 0.674393,-2.178643 0.476413,-2.71082 1.405047,-4.241603 0.87083,-1.5833139 2.295003,-4.6707319 2.427554,-6.7915218 0.06,-0.9592282 0.02049,-2.028221 -0.09371,-2.9578215 -0.0571,-0.46480023 -0.455734,-1.86546517 -0.390197,-2.5820029 0.06554,-0.7165376 0.364688,-0.5202049 0.483353,-3.106539 0.166172,-2.4510311 -0.67393,-5.8677068 -1.252912,-7.3978608 -0.529339,-1.398974 -1.019748,-2.683864 -1.019748,-2.683867 -0.101509,-0.260375 -0.158261,-0.398911 -0.42305,-0.60063 -0.26479,-0.201719 -1.053862,-0.125992 -1.32044,-0.55858 -0.267222,-0.433626 0.365096,-0.994156 0.131191,-1.715381 -0.497451,-1.533822 -1.733612,-3.783578 -4.114823,-5.72823 -1.136839,-0.928429 -2.173026,-1.75771 -3.051528,-2.366367 -0.43925,-0.304329 -0.837957,-0.553902 -1.208814,-0.736974 -0.321493,-0.158702 -0.734647,-0.04326 -0.972346,-0.282774 -0.18875,-0.190195 -0.09389,-0.563924 -0.218832,-0.773906 -0.377563,-0.471968 -0.89156,-0.808156 -1.328979,-1.077075 -0.606054,-0.334911 -0.656399,-0.372361 -1.051168,-0.5898 -0.29694,-0.156364 -0.577367,-0.366121 -0.903994,-0.443177 -0.236598,-0.05582 -0.7437197,0.05125 -0.729257,0.523667 v 9.179938 c 6.8e-5,5.522955 -4.4772015,10.0002247 -10.0001617,10.0001487 -5.5229646,8.2e-5 -10.0002263,-4.4771867 -10.0001473,-10.0001477 v -9.742179 c 0.0025,-0.234075 -0.05931,-0.360299 -0.334099,-0.355532 z"
+    }
+  }, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "BP-LOGO": {
+      "footprint": "boldport-logo-b", 
+      "layer": "top", 
+      "location": [
+        -9.010662, 
+        1.964923
+      ], 
+      "rotate": 0, 
+      "scale": 0.6, 
+      "show": false
+    }, 
+    "POURS": {
+      "footprint": "pours", 
+      "location": [
+        -0.014727, 
+        0.198016
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "ananas_bot": {
+      "footprint": "ananas_silk_bot", 
+      "layer": "bottom", 
+      "location": [
+        0.431289, 
+        -0.022193
+      ], 
+      "mirror": true, 
+      "rotate": 0, 
+      "scale": 1, 
+      "show": true
+    }, 
+    "ananas_top": {
+      "footprint": "ananas_silk_top", 
+      "layer": "top", 
+      "location": [
+        0.431289, 
+        -0.022193
+      ], 
+      "rotate": 0, 
+      "scale": 1, 
+      "show": true
+    }, 
+    "neg1": {
+      "footprint": "neg_logo", 
+      "layer": "top", 
+      "location": [
+        -6.797525, 
+        -21.406253
+      ], 
+      "rotate": 0, 
+      "scale": 1, 
+      "show": false
+    }, 
+    "pos1": {
+      "footprint": "pos_logo", 
+      "layer": "top", 
+      "location": [
+        7.300594, 
+        -21.426711
+      ], 
+      "rotate": 0, 
+      "scale": 1, 
+      "show": false
+    }, 
+    "res_pos1": {
+      "footprint": "pos_logo_no_ring", 
+      "layer": "top", 
+      "location": [
+        12.245518, 
+        23.172113
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_pos2": {
+      "footprint": "pos_logo_no_ring", 
+      "layer": "top", 
+      "location": [
+        22.737745, 
+        6.25251
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_pos3": {
+      "footprint": "pos_logo_no_ring", 
+      "layer": "top", 
+      "location": [
+        18.684642, 
+        -13.701758
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_pos4": {
+      "footprint": "pos_logo_no_ring", 
+      "layer": "top", 
+      "location": [
+        -12.274437, 
+        23.160759
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_pos5": {
+      "footprint": "pos_logo_no_ring", 
+      "layer": "top", 
+      "location": [
+        -23.606889, 
+        6.784015
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_pos6": {
+      "footprint": "pos_logo_no_ring", 
+      "layer": "top", 
+      "location": [
+        -18.916934, 
+        -14.210466
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_res1": {
+      "footprint": "res_logo", 
+      "layer": "top", 
+      "location": [
+        -17.762409, 
+        15.814348
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_res2": {
+      "footprint": "res_logo", 
+      "layer": "top", 
+      "location": [
+        -13.74389, 
+        -20.052087
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_res3": {
+      "footprint": "res_logo", 
+      "layer": "top", 
+      "location": [
+        -21.747198, 
+        -4.083502
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_res4": {
+      "footprint": "res_logo", 
+      "layer": "top", 
+      "location": [
+        19.414082, 
+        17.575393
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_res5": {
+      "footprint": "res_logo", 
+      "layer": "top", 
+      "location": [
+        13.691802, 
+        -20.80375
+      ], 
+      "rotate": 0, 
+      "scale": 0.8, 
+      "show": true
+    }, 
+    "res_res6": {
+      "footprint": "res_logo", 
+      "layer": "top", 
+      "location": [
+        23.226605, 
+        -3.472319
+      ], 
+      "rotate": 325.025329, 
+      "scale": 0.8, 
+      "show": true
+    }
+  }
+}
