@@ -1,6 +1,6 @@
 # Ananas
 
-Ananas uses two PCBs to create an interesting three-dimensional construction. Each quadrant of the spherical shape contains its own three LED flasher. The flasher is a discrete circuit based around NPN transistors, resistors and capacitors.
+*Ananas* uses two identical PCBs to create an interesting three-dimensional construction. Each quadrant of the spherical shape contains its own three LED flasher. The flasher is a discrete circuit based around NPN transistors, resistors and capacitors.
 
 For more detailed information visit [boldport.com/ananas](http://boldport.com/ananas)
 
@@ -12,4 +12,4 @@ These files are produced using [PCBmodE](https://github.com/boldport/pcbmode). I
 
 # License
 
-This project is distributed under the CERN Open Hardware License v1.2. See LICENSE for details.
+This project is distributed under the MIT Licence See LICENSE for details.
