@@ -12,4 +12,6 @@ These files are produced using [PCBmodE](https://github.com/boldport/pcbmode). I
 
 # License
 
-This project is distributed under the MIT Licence See LICENSE for details.
+This project is distributed under the MIT License.
+
+See LICENSE for further details.
