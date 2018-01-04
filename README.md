@@ -1,6 +1,6 @@
-![Constructed pinapple circuit board](/images/ananas.jpg)
-
 # Ananas
+
+![Constructed pinapple circuit board](/images/ananas.jpg)
 
 *Ananas* uses two identical PCBs to create an interesting three-dimensional construction. Each quadrant of the spherical shape contains its own three LED flasher. The flasher is a discrete circuit based around NPN transistors, resistors and capacitors. This project is produced and built using [PCBmodE](https://github.com/boldport/pcbmode).
 
